@@ -49,7 +49,7 @@ Initially detecting person using YOLO; after, using KCF tracker on person’s fa
 * Cons:
     * Computationally expensive to run YOLO (like on mobile device running comma.ai software would probably be impossible)
 
-> Note: please use the links below to see demos for V.4 and V.5 of the algorithm. GitHub's limit of 100mb upload for a single file has been exceeded when trying to upload the YOLO model and pretrained weights. If you want to run the model on your computer, use the following link to download YOLO weights and model and place it in `yolo/model_data/` directory
+> Note: please use the links below to see demos for V.4 and V.5 of the algorithm. GitHub's limit of 100mb upload for a single file has been exceeded when trying to upload the YOLO model and pretrained weights. If you want to run the model on your computer, use the following link to download YOLO weights and model and place it in `yolo/model_data/` directory. Download Link: https://drive.google.com/drive/folders/1msa1bm-9ki1a3oo57NLaH-64R2gSVinR?usp=sharing
 
 
 ### Video Demos:
